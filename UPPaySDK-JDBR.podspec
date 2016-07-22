@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://open.unionpay.com/ajweb/index"
 
   # s.license      = "MIT (example)"
-  s.license      = { :type => "Copyright", :file => "中国银联 版权所有." }
+  s.license      = { :type => "Copyright", :text => "中国银联 版权所有." }
 
   s.author       = { "fanhuibo" => "huibo.fan@huaat.net" }
 
