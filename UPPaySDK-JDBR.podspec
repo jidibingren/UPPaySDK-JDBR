@@ -10,9 +10,9 @@ Pod::Spec.new do |s|
 
   s.name         = "UPPaySDK-JDBR"
 
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   
-  s.summary      = "银联支付控件 for iOS"
+  s.summary      = "UPPaySDK 3.3.6(银联支付控件 for iOS)"
 
   s.description  = <<-DESC
   PPaySDK's cocoapods integration
